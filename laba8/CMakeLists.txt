@@ -5,4 +5,5 @@ set(CMAKE_CXX_STANDARD 20)
 
 add_executable(laba8 main.cpp
         Array.h
-        Vector.h)
+        Vector.h
+        Deque.h)
