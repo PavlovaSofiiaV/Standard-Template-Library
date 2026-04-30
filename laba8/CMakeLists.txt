@@ -4,4 +4,5 @@ project(laba8)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(laba8 main.cpp
-        Array.h)
+        Array.h
+        Vector.h)
